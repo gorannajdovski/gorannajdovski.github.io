@@ -1,5 +1,5 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
+title: 'Feeling Responsive'
+description: '»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.'
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-cayman
+theme: jekyll-theme-feeling-responsive
